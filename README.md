@@ -5,7 +5,7 @@
 ```javascript
 const proskdim = {
     pronouns: "He" | "Him",
-    code: ["Ruby", "Javascript", "Java", "Elixir", "Clojure"],
+    code: ["Ruby", "Javascript", "Java", "Elixir", "Rust"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         frontEnd: {
