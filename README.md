@@ -27,3 +27,10 @@ const proskurekov = {
 ```
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proskdim&layout=compact)
+
+
+## Courses & Certificates
+
+#### [Hexlet](https://ru.hexlet.io/courses) - Online programming school
+
+<img src="./images/hexlet_course.png" width="400">
