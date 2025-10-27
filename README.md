@@ -4,7 +4,7 @@
 
 ```javascript
 const proskurekov = {
-    code: ["Ruby", "Javascript", "Java", "Elixir", "Rust"],
+    code: ["Ruby", "Javascript", "Java"],
     askMeAbout: ["web dev", "app dev"],
     technologies: {
         frontEnd: {
@@ -14,7 +14,6 @@ const proskurekov = {
         backEnd: {
             ruby: ["Ruby on Rails", "Sinatra"],
             java: ["Spring Boot", "Javalin"],
-            elixir: ["Phoenix"],
         },
         devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
         databases: ["PostgreSQL", "MongoDB", "SQLite",   "redis"],
