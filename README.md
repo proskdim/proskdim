@@ -7,5 +7,5 @@ I love coding
 
 <div align="left">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=proskdim&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px"  alt="github stat"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proskdim&layout=compact" height="185px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proskdim&layout=compact" height="185px" alt="github top languages"/>
 </div>
