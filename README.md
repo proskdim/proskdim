@@ -1,35 +1,11 @@
-<h2>(Привет)  I'm Dmitriy Proskurekov</h2>
+<h2>失敗は成功の母である</h2>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I love coding
 
-```javascript
-const proskurekov = {
-    code: ["Ruby", "Javascript", "Java"],
-    askMeAbout: ["web dev", "app dev"],
-    technologies: {
-        frontEnd: {
-            js: ["React"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-        },
-        backEnd: {
-            ruby: ["Ruby on Rails", "Sinatra"],
-            java: ["Spring Boot", "Javalin"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "GitHub Actions"],
-        databases: ["PostgreSQL", "MongoDB", "SQLite",   "redis"],
-    },
-    architecture: {
-        backEnd: ["monolithic"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-};
-```
+- 🎓 **Education**: [SIBFU](https://www.sfu-kras.ru/en)
+- 🌐 **Links**: visit my blog [here](https://proskurekov.com)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proskdim&layout=compact)
-
-
-## Courses & Certificates
-
-#### [Hexlet](https://ru.hexlet.io/courses) - Online programming school
-
-<img src="./images/hexlet_course.png" width="400">
+<div align="left">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=proskdim&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px"  alt="github stat"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=proskdim&layout=compact" height="185px"/>
+</div>
